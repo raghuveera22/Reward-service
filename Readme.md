@@ -4,9 +4,6 @@ A customer receives 2 points for every dollar spent over $100 in each transactio
 (e.g. a $120 purchase = 2x$20 + 1x$50 = 90 points).
 Given a record of every transaction during a three month period, calculate the reward points earned for each customer per month and total.
 
-## Notes Application: (https://www.techgeeknext.com/java/spring-boot-jpa-rest)
-This application is build with spring boot, JPA, MySql to expose RESTful API for a “notes” application.
-
 ## Requirements
 1. Java - 1.8.x
 2. Maven - 3.x.x
