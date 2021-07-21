@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Retailer Reward Service
+Implementation-Version: 1.0.0
+Built-By: Deeraj
+Implementation-Vendor-Id: com.retailer.app
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/retailer-reward-service
+Created-By: Maven Integration for Eclipse
+
