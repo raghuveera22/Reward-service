@@ -19,7 +19,6 @@ public class Reward implements Serializable {
 
 	private Double rewardPoints;
 
-
 	private LocalDate transactionDate;
 
 }
